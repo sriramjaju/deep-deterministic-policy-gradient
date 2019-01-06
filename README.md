@@ -39,7 +39,7 @@ The environment is considered solved, when the average (over 100 episodes) of th
 #### Pre-requisites
 - Make sure you having a working version of [Anaconda](https://www.anaconda.com/download/) on your system.
 
-#### Step 1: Clone the repo
+#### Step 1: Create and activate Conda environment
 Create (and activate) a new environment with Python 3.6.
 
 	- __Linux__ or __Mac__: 
